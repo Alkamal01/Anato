@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Anato logo</title>
+  <desc id="desc">A simple anatomy lens mark in green and teal</desc>
+  <circle cx="64" cy="64" r="58" fill="#0f3040" stroke="#8bd144" stroke-width="4"/>
+  <path d="M64 27c-13 0-22 10-22 23 0 7 3 13 8 17-8 7-12 17-12 29v5h52v-5c0-12-4-22-12-29 5-4 8-10 8-17 0-13-9-23-22-23Z" fill="none" stroke="#eef8f3" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M64 28v69M43 53c8 4 14 4 21 0 7 4 13 4 21 0M46 76c6 3 12 3 18 0 6 3 12 3 18 0" fill="none" stroke="#8bd144" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="64" cy="27" r="5" fill="#8bd144"/>
+</svg>
